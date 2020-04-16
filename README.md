@@ -2,6 +2,13 @@
 
 Upload file with node JS
 
+## Install
+
+```bash
+npm i @juliendu11/uptoboxapi
+```
+
+
 # How to use ?
 
 ````javascript
