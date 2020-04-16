@@ -12,7 +12,7 @@ npm i @juliendu11/uptoboxapi
 # How to use ?
 
 ````javascript
-  const uptoboxAPI = require('./index');
+  const uptoboxAPI = require('uptoboxapi');
   (async () => {
     let value = await uptoboxAPI.uploadFile('{TOKEN}','{FILE}')
      console.log(value)
